@@ -38,7 +38,7 @@ pip install -r requirements.txt
 
 4. Run the app:
 ```sh
-python time_tracker_pro
+python time_tracker_pro.py
 ```
 
 ## Usage
