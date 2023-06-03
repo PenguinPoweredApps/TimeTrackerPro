@@ -1,6 +1,6 @@
 # Time Tracker Pro
 
-![Time Tracker Pro Logo](assets/logo.png)
+![Time Tracker Pro Logo](icon.png)
 
 Time Tracker Pro is a robust application designed to help you keep track of the time you spend on your various projects. It's implemented using Python and TKinter and stores all time records in a csv file. It's simple, efficient, and easy to use!
 
@@ -54,6 +54,8 @@ python time_tracker_pro
 5. **Save Tracking**: To save tracking time, hit the 'Save' button.
 
 6. **View Tracked Time**: All your time data is stored in a CSV file named `<Project>-<StartTime>.csv` in the same directory.
+
+7. **Build native app for Linux, Windows or Mac**: pyinstaller time_tracker_pro.spec
 
 ## Contributing
 
